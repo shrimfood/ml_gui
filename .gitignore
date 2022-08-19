@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+
+/Lib
+/Scripts
+pyvenv.cfg
+
+# * -> 모든 파일을 커밋하지 않겠다! 
